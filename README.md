@@ -1,6 +1,6 @@
 # notebook
 
-You can browse and play with the notebooks online via [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sean-parent/notebook/master?urlpath=lab).
+You can browse and play with the notebooks online via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/satyamTiwary/notebook.git/master).
 
 The slides are available at http://sean-parent.stlab.cc/notebook/
 
